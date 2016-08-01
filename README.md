@@ -18,7 +18,7 @@ Au fur et à mesure des évolutions du texte celle-ci sont-elles prises en compt
 
 Oui si le contenu de l’éditeur est enregistré…
 
-Mais ensuite ill faut **commiter* les modifications.
+Mais ensuite il faut **commiter* les modifications.
 
 
 
