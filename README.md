@@ -15,7 +15,7 @@ Oui si le contenu de l’éditeur est enregistré… et que le document modifié
 
 * Et maintenant ?
 
-## Pull request ou Publish ?
+## Pull request ou Publish ou Synchronise ?
 ### Pull request
 Permet d’adresser une demande de révision au propriétaire du GitHub.
 
@@ -29,5 +29,8 @@ Cela consiste à publier le Repository Git local vers GitHub.
 
 Un nouveau repository est créée sur le GitHub, lequel peut ensuite se synchroniser avec le repository local.
 
+### Sync
+Quand un repository distant sous GitHub est créé, les modification locales peuvent être **synchronisées** avec celui-ci. La synchronisation porte sur la branche active.
 
+Il faudra faire une demande **Pull request** pour que la fusion avec la branche master soit effective.
 
