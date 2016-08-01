@@ -1,6 +1,8 @@
 Mon GitHub Desktop pas à pas
 ==================
 
+Version 3.
+
 J’ai beaucoup de mal à me repérer dans l’utilisation de Git.
 
 A plusieurs reprises j’ai perdu des « workspaces » suite à des erreurs de manip, surtout sur Mac dont le système de fichier ne m’est pas familier…
@@ -44,9 +46,10 @@ Oui si le contenu de l’éditeur est enregistré… et que le document modifié
 ### Pull request
 Permet d’adresser une demande de révision au propriétaire du GitHub.
 
-Quand la révision est acceptée, celui-ci peut fusionner les branches avec la branche maîtresse. 
+*Depuis le GitHub en ligne* se placer sur la branche ad hoc et cliquer sur « **Pull request** ». On peut alors commenter et accepter la requête.
 
-Cela se fait depuis le GitHub en ligne.
+Quand la révision est acceptée, celui-ci peut fusionner (**Merge**) la branche courante avec la branche maîtresse (master). 
+
 
 ### Publish
 Cela consiste à publier le Repository Git local vers GitHub.
