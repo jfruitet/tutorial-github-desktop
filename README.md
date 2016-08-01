@@ -3,11 +3,11 @@ Mon GitHub Desktop pas à pas
 
 J’ai beaucoup de mal à me repérer dans l’utilisation de Git.
 
-A plusieurs reprises j’ai perdu des « workspace » suite à des erreurs de manie, surtout sur Mac donc le système de fichier ne m’est pads familier…
+A plusieurs reprises j’ai perdu des « workspaces » suite à des erreurs de manip, surtout sur Mac dont le système de fichier ne m’est pas familier…
 
 ## Installer l’interface
-*Il faut installer Git en premier sur la machine.
-*Puis aller sur GitHub et cliquer sur *Clone on Desktop*
+* Il faut installer Git en premier sur la machine.
+* Puis aller sur GitHub et cliquer sur *Clone on Desktop*
 Une application **GitHub Desktop App** s’installe dans le dossier *Applications*
 
 
@@ -22,7 +22,16 @@ A priori la branche initiale s’appelle master
 
 On peut alors visualiser le contenu de la branche (*View branch*)
 
-* Y modifier des données, par exemple le fichier README.md avec un  éditeur de texte comme TextEdit.
+###EDITER 
+
+Pour modifier des données il faut utiliser un éditeur, par exemple le fichier README.md avec un  éditeur de texte comme TextEdit.
+
+Mais j’ai perdu l’adresse du document initial.
+Bref où est donc ce README.md ?
+
+###COMMITER
+C’est l’action d’enregistrer les modification dans le repository local.
+
 * **Commiter** la modification en remplissant un descriptif
 
 Au fur et à mesure des évolutions du texte celles-ci sont-elles prises en compte ?
